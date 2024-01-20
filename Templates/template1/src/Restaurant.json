@@ -1,0 +1,404 @@
+{
+    "BasaveshwarNagar" : [
+        {
+            "Kadai Restaurant" : { 
+                "item" :[
+                            "tomato soap",
+                            "Mutton leg soup",
+                            "Veg. clear soap",
+                            "Plain Soup",
+                            "Sweet corn soap",
+                            "Chicken noodles Soup",
+                            "Hot and sour soup",	    
+                            "Sweet Corn Chicken soup",
+                            "Manchow soup",		    
+                            "Chicken Clear Soup",
+                            "Mutton soup",
+                            "Chicken manchow Soups",
+                            "Chciken Doner",
+                            "Spicy Chicken Bucket",
+                            "Hot Wings Bucket"
+                        ],
+                "address" : "HIG, 15, 6th Cross Rd, 2nd Stage, KHB Colony, Basaveshwar Nagar, Bengaluru, Karnataka 560079",
+                "Contact info" : 7795734737,
+                "url" : "https://kadai-restaurant-north-indian-restaurant.business.site/?utm_source=gmb&utm_medium=referral",
+                "Hours" : "11am - 11pm"
+            }
+        },
+        {
+            "Sizzlly Chicken" : {
+                "item" :[ 
+                            "veg pizza" ,
+                            "Chicken pizza",
+                            "cheese pizza",		    
+                            "chicken mashroom",
+                            "Sweetcorn pizza",		    
+                            "Boiled egg sandwich",
+                            "Sweetcorn onion pizza",		    
+                            "cheese chicken sandwich", 
+                            "Babycorn tomato",		    
+                            "chicken sandwich",
+                            "Babycorn onion",			   
+                            "egg wrap",
+                            "veg warp",			   
+                            "chicken wrap",
+                            "corn wrap" 
+                        ],
+                "address" : "753, 8th Main Rd, 4th Block, 3rd Stage 4th Block, SBI Staff Colony, Basaveshwar Nagar, Bengaluru, Karnataka 560079",
+                "Contact info" : "",
+                "url" : "",
+                "Hours" : "11am - 12pm"
+            }
+        },
+        {
+            "Grits cafe (Veg)" : {
+                "item" : [  
+                                    "Idli vada",
+                                    "Rava idle",
+                                    "Poori",
+                                    "Bisi Bele bath",
+                                    "Khara Pogal",
+                                    "Parota",
+                                    "Chapathi",
+                                    "Lemon Rice",
+                                    "Masala Dose",
+                                    "Rice Bath",
+                                    "Khara Bath",
+                                    "macroni Masala",
+                                    "gold Coin",
+                                    "Panner Cheese Sticks",
+                                    "Mixed Sauce pasta",
+                                    "3 bean salad",
+                                    "Pasta salad"
+                                ],
+                "address" : "# 71, Sri Vari Arcade Bhemajothinagar, Shankar Mutt Rd, Vyalikaval HBCS Layout, Basaveshwar Nagar, Bengaluru, Karnataka 560079",
+                "Contact info" : 9035181001,
+                "url" : "https://grits-cafe-india.business.site/?utm_source=gmb&utm_medium=referral",
+                "Hours" : "10:30am-9:30pm"
+            }
+        },
+        { 
+            "TeaMax Cafe" :  {
+                "item" : [   
+                                "Dum Tea",
+                                "Kadak Tea",
+                                "Green Tea",
+                                "Masala Tea",
+                                "Elaichi Tea",
+                                "Chocolate Tea",
+                                "Lemon Tea",
+                                "Paan Tea",
+                                "Rose Tea",
+                                "Vanilla Milkshakes",
+                                "Mango Milkshakes",
+                                "badam Milkshakes",
+                                "Chocolate Milkshakes",
+                                "Caramel Milkshakes",
+                                "Kikat Milkshakes",
+                                "Caramel Thickshakes"
+                            ],
+                "address" : " 271-269, 8th Main Rd, Shakthi Ganapathi Nagar, Basaveshwar Nagar, Bengaluru, Karnataka 560079",
+                "Contact info" : 9505047047,
+                "url" : "https://www.teamaxcafe.in/",
+                "Hours" : "10:00am-10:30pm"
+            }
+        },
+        {
+            "ADITYA DUM BIRYANI" : {
+                "item" : [    
+                                        "Mutton dum Biryani",
+                                        "Mutton leg Soup",
+                                        "Mutton pepper Fry",
+                                        "Chicken Biryani",
+                                        "Chicken Kabab",
+                                        "Nati Koli saaru",
+                                        "Fish Tawa Fry",
+                                        "egg biryani",
+                                        "Egg Burj",
+                                        "Omelet",
+                                        "Ragi Ball",
+                                        "Rice",
+                                        "Ghee Rice",
+                                        "Dosa",
+                                        "Rasam"
+                                    ],
+                "address" : "179/B, 57th Cross Rd, 4th Block, Rajajinagar, Bengaluru, Karnataka 560010",
+                "Contact info" : "",
+                "url" : "https://www.swiggy.com/restaurants/hotel-aditya-mahalakshmipuram-mahalaxmipuram-basaveshwaranagar-bangalore-495520",
+                "Hours" : "Temporarily closed"
+            }
+        },
+        {
+            "CAFE ORIGINAL'E" :  {
+                "item" :[   
+                                    "Avallakki",
+                                    "Pav Bhaji",
+                                    "Vada Pav",
+                                    "Punjabi samosa",
+                                    "Momos",
+                                    "Masala Oats",
+                                    "Moongdal Halwa",
+                                    "Carrot Halwa",
+                                    "Kasi Halwa",
+                                    "Mexican salad",
+                                    "Chickpea Salad",
+                                    "Spinach Corn",
+                                    "Paneer Peri Peri",
+                                    "Baby Corn",
+                                    "Corn Cheese",
+                                    "Chilli Cheese"
+                                ],
+                "address" : "7/A, Basaveshwarnagar, Block 2, 3rd Stage, Basaveshwar Nagar, Karnataka 560079",
+                "Contact info" : 9901879498,
+                "url" : "http://yumjar.in/",
+                "Hours" : "10am-11:30pm"
+            }
+        },
+        {
+            "Popeyes" :  {
+                "item" :[   
+                            "Popeyes Chicken",
+                            "Sandwich Meal",
+                            "Chicken sandwich",
+                            "Chicken sandwich",
+                            "popcorn and coke",
+                            "Popeyes Signature",
+                            "Lemon Chilli grilled Chicken",
+                            "Sweet Chilli Chicken wings",
+                            "Cajun Chicken Popcorn",
+                            "Cajun Chicken Tenders",
+                            "Classic Veg Burger",
+                            "Cajun Veg Burger",
+                            "Classic Veg Wrap",
+                            "Cajun Veg Popcorn",
+                            "Cajun Fries",
+                            "Cajun Onion wings",
+                            "Classic Chicken Wrap Meal"
+                        ], 
+                "address" : "Ground and First Floor, 333, 3rd Stage 4th Block, Basaveshwar Nagar, Bengaluru, Karnataka 560079",
+                "Contact info" : 18003091234,
+                "url" : "https://www.popeyes.in/?utm_source=Google_GMB&utm_medium=GMB&utm_campaign=GMB_Basaveshwara_nagar",
+                "Hours" : "11am - 11pm"
+            }
+        },
+        {
+            "New Rajdhani Biriyani" : {
+                "item" : [ 
+                           "Veg Momos",
+                           "Paneer Momos",
+                           "Mushroom Momos",
+                           "Cheese Momos",
+                           "Sweet Corn Momos",
+                           "Chicken Momos",
+                           "Veg Rolls",
+                           "Paneer rolls",
+                           "Chicken Rolls",
+                           "Egg Rolls",
+                           "Double Egg Rolls",
+                           "Fried Veg Momos",
+                           "Fried Paneer Momos",
+                           "Fried Mushroom Momos",
+                           "Fried Chicken Momos"
+                       ],
+                "address" : "4, West of Chord Road 2nd Stage, Manjunath Nagar, Rajajinagar, Bengaluru, Karnataka 560079",
+                "Contact info" : "08310530008",
+                "url" : "https://www.zomato.com/bangalore/new-rajdhani-biryani-and-kabab-centre-rajajinagar-bangalore",
+                "Hours" : "10am - 11pm"
+            }
+        },
+        {
+            "Leon's Burgers & Wings" :  {
+                "item" :[    
+                        "Veg Peri peri Burger",
+                        "Jumbo Chicken Burger",
+                        "Chicken Fried Burger",
+                        "Chilli Cheese Chicken Burger",
+                        "Peri -peri Chicken burger",
+                        "Peri -peri Chicken Warp",
+                        "Chicken Doner Wrap",
+                        "Boner Warp",
+                        "Falafel Doner",
+                        "Chciken Doner",
+                        "Spicy Chicken Bucket",
+                        "Hot Wings Bucket",
+                        "Peri Peri Chicken Salad",
+                        "Chicken Doner Salad",
+                        "Paneer Salad"
+                    ],
+                "address" : "4, West of Chord Road 2nd Stage, Manjunath Nagar, Rajajinagar, Bengaluru, Karnataka 560079",
+                "Contact info" : 8310530008,
+                "url" : "https://www.zomato.com/bangalore/new-rajdhani-biryani-and-kabab-centre-rajajinagar-bangalore",
+                "Hours" : "10am - 11pm"
+            }
+        },
+        {
+            "Oishii Hotel" :  {
+                "item" :[  
+                                "Parota",
+                                "Half rice",
+                                "Chapathi Gravy",
+                                "Gobi Manchurian",
+                                "Chicken Manchurian",
+                                "Chilly Chicken",
+                                "Chicken kabab",
+                                "Chicken Sukka",
+                                "Mashroom Kabab",
+                                "Mashroom Manchurian",
+                                "Bonda" ,
+                                "Onion Pakoda",
+                                "Banana Bajji",
+                                "Mirchi Bajji",
+                                "Shawarma rolls",
+                                "Chicken Mint rolls",
+                                "Chicken keemaRoll",
+                                "Egg Roll"
+                            ],
+                "address" : "1, 2nd Main Rd, 3rd Block, West Of Chord Road, 3rd Stage, Vijayanagar, Bengaluru, Karnataka 560040",
+                "Contact info" : "",
+                "url" : "https://magicpin.in/Bangalore/Phoenix-Market-City/Restaurant/Oishi-Cafe/store/513130/",
+                "Hours" : "10am - 9pm"
+            }
+        },
+        {
+            "Chinese Wok" :  {
+                "item" :[   
+                                "veg Mini Spring roll",
+                                "Sweet Chilli Potato",
+                                "Manchurian Potato",
+                                "Veg Manchrian",
+                                "Kung pao Paneer" ,
+                                "Chilli Paneer",
+                                "Black Pepper Paneer",
+                                "Chilli chicken" ,
+                                "Chicken Manchurian",
+                                "Sweet Chilli chicken",
+                                "Kung pao Chicken",
+                                "Classic Momos ",
+                                "Schezwan Paneer Momos",
+                                "Corn Cheese momos",
+                                "Mushroom momos",
+                                "Hakka Noodles ",
+                                "Burnt Garlic Fried Rice",
+                                "Chilli Garlic"
+                            ],
+                "address" : "# 71, Sri Vari Arcade Bhemajothinagar, Shankar Mutt Rd, Vyalikaval HBCS Layout, Basaveshwar Nagar, Bengaluru, Karnataka 560079",
+                "Contact info" : 8049900291,
+                "url" : "http://www.thechinesewok.com/",
+                "Hours" : "11am - 2am"
+            }
+        },
+        {
+            "Cave-n-Dine" :  {
+                "item" :[   "Crispy Fried Chicken",
+                                "Schezwan Chicken",
+                                "Lemon Chicken" ,
+                                "Spinach Chicken",
+                                "Chicken Satay",
+                                "Wonton Fried Chichen",
+                                "Wonton Freind Prawns",
+                                "Crunchy Fried Chicken",
+                                "Egg Masala",
+                                "Lamb Chilly",
+                                "Mutton pepper Chilly" ,
+                                "Mutton Ghee Rolls",
+                                "Mutton Sheekh",
+                                "Mutton Sukka",
+                                "Mutton Pudina dry",
+                                "Veg Kheema masala",
+                                "Mushroom Masala",
+                                "Mushroom Kadai",
+                                "Navarathna Kurma"
+                            ],
+                "address" : "4th Stage, 3rd Block, 12, 1st Main Rd, Basaveshwar Nagar, Bengaluru, Karnataka 560079",
+                "Contact info" : 8023102051,
+                "url" : "http://cavendine.com/",
+                "Hours" : "11am - 11pm"
+            }
+        },
+        {
+            "Guru Sagar" :  {
+                "item" :[    "Gobi Manchurian",
+                                "BabyCorn Manchurian",
+                                "Paneer Manchurian",
+                                "Mushroom Munchurian",
+                                "Gobi Chilli",
+                                "BabyCorn Chilli",
+                                "Mushroom chilli",
+                                "Gobi 64",
+                                "Paneer Pepper Dry",
+                                "Mushroom Pepper dry",
+                                "Baby Corn Pepper Dry",
+                                "Veg Manchurian",
+                                "Chilli Semi Gravy",
+                                "BabyCorn 65",
+                                "Tomato soup",
+                                "Hot and Sour Soup",
+                                "Veg Soup",
+                                "Veg Manchow Soup"
+                            ],
+                "address" : "576, 1st Cross Rd, 2nd Stage, Shakthi Ganapathi Nagar, Basaveshwar Nagar, Bengaluru, Karnataka 560079",
+                "Contact info" : 8105493635,
+                "url" : "https://www.zomato.com/bangalore/shree-guru-sagar-basaveshwara-nagar",
+                "Hours" : "6:30am - 11pm"
+            }
+        },
+        {
+            "Nammura Upachara" :  {
+                "item" :[  "Khara Bath",
+                                    "Kesari Bath",
+                                    "Chow Chow Bath",
+                                    "Rice Bath",
+                                    "Poori Bath",
+                                    "Avalakki Bath",
+                                    "Shavige bath",
+                                    "Bisibele Bath",
+                                    "Mangalore Bhajji",
+                                    "Bonda Soup",
+                                    "Khali Dosa",
+                                    "Rava Idli",
+                                    "Benne Dosa" ,
+                                    "Benne Masala Dosa",
+                                    "Set Dosa",
+                                    "Palak Dosa",
+                                    "Rava Dosa" ,
+                                    "Onion Dosa",
+                                    "Ragi Dosa",
+                                    "Paper plain dosa"
+                                ],
+                "address" : "#51, 2nd C Cross Rd, West of Chord Road, Basaveshwar Nagar, Bengaluru, Karnataka 560079",
+                "Contact info" : "+918971505280",
+                "url" : "https://www.zomato.com/bangalore/nammura-upachara-basaveshwara-nagar",
+                "Hours" : "7am - 10:30pm"
+            }
+        },
+        {
+            "CHOPSTICK WORLD" :  {
+                "item" :[   "Tandoori Chicken" ,
+                                    "Chicken Kebab",
+                                    "Kalmi Kebab",
+                                    "Tandoori Chicken Kebab",
+                                    "Chicken Tikka",
+                                    "Hariyali Tikka",
+                                    "Kali Mirch Kebab",
+                                    "Banjara Kebab",
+                                    "Lasooni Kebab",
+                                    "Malai Kebab",
+                                    "Achari Kebab" ,
+                                    "Andhra Chicken" ,
+                                    "Mutton Sheek-Kebab",
+                                    "Tandoori Roti",
+                                    "Butter Roti",
+                                    "Romali Roti",
+                                    "Kulcha",
+                                    "Butter Naan",
+                                    "Lachcha Paratha",
+                                    "Cheese Naan"
+                                ],
+                "address" : "No.5, 1st Main Rd, opp. Police Station, Block 2, 3rd Stage, Basaveshwar Nagar, Bengaluru, Karnataka 560079",
+                "Contact info" : "08023232336",
+                "url" : "https://www.zomato.com/bangalore/chopstick-world-basaveshwara-nagar",
+                "Hours" : "11:30am - 12pm"
+            }
+        }
+    ]
+}

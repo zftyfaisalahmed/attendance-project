@@ -1,0 +1,44 @@
+*{
+    margin: 0%;
+    padding: 0%;
+    box-sizing: border-box;
+}
+
+/* CONTAINER START */
+   .container{
+    background: linear-gradient(rgba(55, 57, 69, 0.6), rgba(55, 57, 69, 0.6)) ,url(../images/meeting-01.jpg) no-repeat center;
+    background-size: cover;
+    height: 600px;
+   }
+/* CONTAINER END */
+
+/* NAVIGATION BAR START*/
+.navBar{
+    display: flex;
+    justify-content: space-between;
+    background-color: rgba(255, 255, 255, 0.1);
+    padding: 20px 70px;
+}
+.navBar>ul{
+    list-style-type: none;
+    display: flex;
+}
+.navBar>h1{
+    padding: 10px;
+    text-transform: uppercase;
+    font-weight: bold;
+    color: white;
+}
+.navBar>ul>li{
+   padding: 10px;
+}
+.navBar>ul>li>a{
+    text-decoration: none;
+    text-transform: uppercase;
+    color: white;
+    font-weight: bold;
+}
+.navBar>ul>li:hover a{
+    color: black;
+}
+/* NAVIGATION BAR END */
