@@ -3,7 +3,7 @@ import React from 'react'
 const Footer = () => {
   return (
     <footer>
-            <div class="one">
+        <div class="one">
                 <div class="two">
                     <div class="sec1">
                         <h2>Section</h2>
@@ -36,17 +36,17 @@ const Footer = () => {
                     <input type="text" placeholder="Email address" id="Email" name="Email" required />
                     <button type="button">Subscribe</button>
                 </div>
+        </div>
+        <hr />
+        <div class="last">
+            <p>Copyright &#169; 2024, Developed by :- Faizii Team.</p>
+            <div>
+                <b><i className="bi bi-facebook bi-1x"></i></b>
+                <b><i className="bi bi-twitter bi-1x"></i></b>
+                <b><i className="bi bi-youtube bi-1x"></i></b>
             </div>
-            <hr />
-            <div class="last">
-                <p>Copyright &#169; 2024, Developed by :- Faizii Team.</p>
-                <div>
-                    <b><i class="bi bi-facebook bi-1x"></i></b>
-                    <b><i class="bi bi-twitter bi-1x"></i></b>
-                    <b><i class="bi bi-youtube bi-1x"></i></b>
-                </div>
-            </div>
-        </footer>
+        </div>
+    </footer>
   )
 }
 

@@ -1,0 +1,84 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+.bg-img::after{
+    position: absolute;
+    content: '';
+    top: 0;
+    left: 0;
+    height: 100%;
+    width: 100%;
+    background: rgba(0, 0, 0, 0.2);
+}
+.content{
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    z-index: 999;
+    text-align: center;
+    padding: 60px 30px;
+    width: 370px;
+    transform: translate(-50%, -50%);
+    background:rgba(255, 255, 255, 0.1);
+    box-shadow: -1px 4px 28px 0px rgba(0, 0, 0, 0.75);
+}
+.content header{
+    color: white;
+    font-size: 35px;
+    font-weight: 600;
+    margin-bottom: 35px;
+}
+.field{
+    position: relative;
+    height: 45px;
+    width: 100%;
+    display: flex;
+    background: rgba(255, 255, 255, 0.9);
+}
+.field i{
+    color: #222;
+    width: 40px;
+    line-height: 45px;
+}
+.field input{
+    height: 100%;
+    width: 100%;
+    background: transparent;
+    border: none;
+    outline: none;
+    color: #222;
+    font-size: 16px;
+}
+.space{
+    margin-top: 15px;
+}
+.pass{
+    text-align: left;
+    margin: 10px 0;
+}
+.pass a:hover{
+    text-decoration: underline;
+}
+.field input[type="submit"]{
+    background: #6e9df3;
+    border: 1px solid #5489eb;
+    color: white;
+    font-size: 18px;
+    letter-spacing: 1px;
+    font-weight: 600;
+    cursor: pointer;
+}
+.field input[type="submit"]:hover{
+    background: #58da63f5;
+}
+
+
+.login{
+    color: rgb(25, 10, 10);
+    margin: 20px 0px;
+}
+.links i{
+    font-size: 17px;
+}

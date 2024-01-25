@@ -1,0 +1,62 @@
+<!DOCTYPE html>
+<html lang="en">
+    <head>
+        <meta charset="UTF-8">
+        <meta name="viewport" content="width=device-width, initial-scale=1.0">
+        <title>Document</title>
+        <link rel="stylesheet" href="../fontawesome-free-6.4.2-web//css/all.css">
+        <style>
+            .content{background-color: #ccc;}
+            .sidenav{
+                background-color: #fff;
+                /* color: #acaaaa; */
+                padding-top: 20px;
+                width: 300px;
+                height: 100vh;
+            }
+            .sidenav>h2{
+                padding: 15px;
+            }
+            .sidenav>ul{
+                display: flex;
+                flex-direction: column;
+            }
+            .sidenav>ul>li{
+                padding: 15px;
+                display: block;
+            }
+            .sidenav>ul>li>a{
+                text-decoration: none;
+                color: #000;
+            }
+            .sidenav>ul>li>a:hover{color: crimson;}
+            .sidenav>button{
+                padding: 15px 70px;
+                margin-left: 30px ;
+                background-color: #dc3748;
+                color: #fff;
+                border: none;
+                border-radius: 10px;
+                transition: 1s;
+            }
+            .sidenav>button:hover{
+                cursor: pointer;
+                background-color: #f3d632;
+            }
+        </style>
+    </head>
+    <body>
+        <div class="content">
+            <div class="sidenav">
+                <h2>Payroll System</h2>
+                <ul>
+                    <li><a href="#"><i class=" fa-solid fa-user "></i>Employees</a></li>
+                    <li><a href="#"><i class="fa-solid fa-calendar" ></i>Attendance</a></li>
+                    <li><a href="#"><i class="fa-solid  fa-clock"></i>Time Clock</a></li>
+                    <li><a href="#"><i class="fa-solid fa-credit-card "></i>Payroll</a></li>
+                </ul>
+                <button type="button"><i class="fa-solid fa-sign-out"></i>Logout</button>
+            </div>
+        </div>
+    </body>
+</html>

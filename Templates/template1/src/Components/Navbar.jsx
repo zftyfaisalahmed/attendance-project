@@ -5,19 +5,18 @@ const Navbar = () => {
   return (
     <div>
         <header>
-        <nav>
-            <div  class="mx-50">
-                <img src='https://res.cloudinary.com/dvzviljl7/image/upload/v1705749612/ym8kmpfaj6vfznxv6zwh.png' alt="" />
-                <ul>
-                    <li><a href="/">HOME</a></li>
-                    <li><a href="/">MEETINGS</a></li>
-                    <li><a href="/">PAGES</a></li>
-                    <li><a href="/">COURSES</a></li>
-                    <li><a href="/">CONTACT US</a></li>
-                </ul>
-            </div>
-        </nav>
-    </header>
+            <nav>
+                <div  class="mx-50">
+                    <img src='https://res.cloudinary.com/dvzviljl7/image/upload/v1705749612/ym8kmpfaj6vfznxv6zwh.png' alt="" />
+                    <ul>
+                        <li><a href="/">HOME</a></li>
+                        <li><a href="/">ATTENDANCE</a></li>
+                        <li><a href="/">PAYROLL</a></li>
+                        <li className='btn btn-danger'><a href="/">LOG OUT</a></li>
+                    </ul>
+                </div>
+            </nav>
+        </header>
     </div>
   )
 }

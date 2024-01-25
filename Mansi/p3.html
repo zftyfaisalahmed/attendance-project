@@ -1,0 +1,123 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Payroll System</title>
+    <link rel="stylesheet" href="./assets/css/style2.css">
+</head>
+<body>
+    <header>
+        <h1>Payroll System</h1>
+    </header>
+    <nav>
+        <ul>
+            <li><a href="#">Employees</a></li>
+            <li><a href="#">Attendance</a></li>
+            <li><a href="#">Time Clock</a></li>
+            <li><a href="#">Payroll</a></li>
+            <li><button>Logout</button></li>
+        </ul>
+    </nav>
+    <main>
+        <section id="employees-section">
+            <h2>Employees</h2>
+            <input type="search" placeholder="Search...">
+            <table>
+                <thead>
+                    <tr>
+                        <th>Name</th>
+                        <th>Position</th>
+                        <th>Rate</th>
+                        <th>Address</th>
+                        <th>Contact</th>
+                        <th>Status</th>
+                        <th>Actions</th>
+                    </tr>
+                </thead>
+                <tbody>
+                    <tr>
+                        <td>John Doe</td>
+                        <td>Developer</td>
+                        <td>760</td>
+                        <td>Davao</td>
+                        <td>091023908</td>
+                        <td>Married</td>
+                        <td>Actions</td>
+                    </tr>
+                    <!-- Add more rows as needed -->
+                </tbody>
+            </table>
+        </section>
+        <section id="average-rates-section">
+            <h2>AVERAGE HOURLY RATES</h2>
+            <table>
+                <thead>
+                    <tr>
+                        <th>Position</th>
+                        <th>Rate</th>
+                    </tr>
+                </thead>
+                <tbody>
+                    <tr>
+                        <td>Manager</td>
+                        <td>1600</td>
+                    </tr>
+                    <tr>
+                        <td>CEO</td>
+                        <td>1200</td>
+                    </tr>
+                    <tr>
+                        <td>CSR</td>
+                        <td>350</td>
+                    </tr>
+                    <tr>
+                        <td>Director</td>
+                        <td>1500</td>
+                    </tr>
+                    <tr>
+                        <td>Developer</td>
+                        <td>760</td>
+                    </tr>
+                </tbody>
+            </table>
+        </section>
+        <section id="total-wages-section">
+            <h2>TOTAL WAGE BY POSITIONS</h2>
+            <table>
+                <thead>
+                    <tr>
+                        <th>Position</th>
+                        <th>Wage</th>
+                    </tr>
+                </thead>
+                <tbody>
+                    <tr>
+                        <td>Manager</td>
+                        <td>800</td>
+                    </tr>
+                    <tr>
+                        <td>CEO</td>
+                        <td>0</td>
+                    </tr>
+                    <tr>
+                        <td>CSR</td>
+                        <td>400</td>
+                    </tr>
+                    <tr>
+                        <td>Director</td>
+                        <td>400</td>
+                    </tr>
+                    <tr>
+                        <td>Developer</td>
+                        <td>800</td>
+                    </tr>
+                </tbody>
+            </table>
+        </section>
+    </main>
+    <footer>
+        <p>&copy; 2023 Payroll System. All rights reserved.</p>
+    </footer>
+</body>
+</html>
